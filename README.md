@@ -1,1 +1,1 @@
-small issue (i guess): for some reason after terminating the script on my phone and opening another app the screen turns black and i need to press the power button 2 times to get everything back
+small issue (i guess): for some reason after terminating the script on my phone and opening another app the screen turns black and i need to press the power button 2 times to get everything back. Let me know if you have the same issue
