@@ -1,4 +1,3 @@
-
 echo -e "Delay: "
 #Get requested delay
 read delay
@@ -9,5 +8,4 @@ do
 	sleep $delay
 	echo 0 > /sys/class/leds/flashlight/brightness
 	sleep $delay
-
 done
